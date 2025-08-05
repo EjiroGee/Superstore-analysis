@@ -43,7 +43,7 @@ Performed using Power Query / Excel / Python:
 - **Dynamic Filters:** Drill down by Segment, Category, Region, and Date range.
 
 ### 📷 Sample Visualization
-![Dashboard Screenshot](./super store analysis jpeg.jpg)
+![Dashboard Screenshot](./https://github.com/EjiroGee/Superstore-analysis/blob/main/super%20store%20analysis%20jpeg.jpg)
 
 ## 💡 Key Insights
 - The **West Region** consistently outperforms in both sales and profit.
